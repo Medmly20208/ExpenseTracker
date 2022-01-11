@@ -1,0 +1,12 @@
+.Expenses {
+  margin: 10px AUTO;
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  background-color: rgb(31, 31, 31);
+  padding: 20px;
+
+  gap: 20px;
+}

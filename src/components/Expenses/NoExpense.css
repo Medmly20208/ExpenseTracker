@@ -1,0 +1,12 @@
+.NoExpenseMessage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 20px;
+  background-color: #ecceec;
+  color: red;
+}
+.NoExpenseMessage h1 {
+  text-align: center;
+}
